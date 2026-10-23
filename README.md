@@ -3,9 +3,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=revWhiteShadow%20(revWS)&fontSize=44&fontAlignY=38&desc=Autonomous%20Systems%20Architect%20%E2%80%A2%20Linux%20Kernel%20Optimizer%20%E2%80%A2%20Cybersecurity%20Researcher&descFontSize=17&descAlignY=62&fontColor=ffffff" width="100%" alt="revWhiteShadow Banner" />
 
   <p align="center">
-    <a href="https://github.com/revws">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=E11D48&center=true&vCenter=true&width=800&lines=Autonomous+Systems+Architect+%26+Linux+Kernel+Researcher;Fast.+Clean.+Optimized.+—+Smart+tech+shouldn%27t+be+locked+down;The+%22rev%22+in+my+name+stands+for+Revolutionary;Cybersecurity+Researcher%2C+Ethical+Hacker+%26+Bug+Hunter;Engineering+for+Android+10+through+Android+17%2B+and+Beyond" alt="Typing Banner" />
-    </a>
+    <code>┌──(root㉿revWS)-[~]</code><br />
+    <b>Autonomous Systems Architect &bull; Linux Kernel Researcher &bull; Cybersecurity Analyst</b><br />
+    <sub>Fast. Clean. Optimized. &mdash; Smart tech shouldn't be locked down.</sub>
   </p>
 
   <p align="center">
@@ -116,7 +116,6 @@ Documenting engineering discoveries, system architecture, and performance analys
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=revws&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e11d48&icon_color=06b6d4&text_color=c9d1d9" height="175" alt="revws GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=revws&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e11d48&text_color=c9d1d9" height="175" alt="Top Languages" />
 </div>
 
 ---
