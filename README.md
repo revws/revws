@@ -8,17 +8,44 @@
     <sub>Fast. Clean. Optimized. &mdash; Smart tech shouldn't be locked down.</sub>
   </p>
 
-  <p align="center">
-    <a href="https://github.com/revws"><img src="https://komarev.com/ghpvc/?username=revws&color=e11d48&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" /></a>
-    <a href="https://revwhiteshadow.gitlab.io"><img src="https://img.shields.io/badge/Portfolio-revwhiteshadow.gitlab.io-e24329?style=for-the-badge&logo=gitlab&logoColor=white" alt="Portfolio Website" /></a>
-    <a href="https://gitlab.com/revWhiteShadow"><img src="https://img.shields.io/badge/GitLab-revWhiteShadow-fc6d26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab Profile" /></a>
-    <a href="https://t.me/godTspeed"><img src="https://img.shields.io/badge/Telegram-Official%20Channel-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Channel" /></a>
-    <a href="https://t.me/godspeedmode"><img src="https://img.shields.io/badge/Telegram-Discussion%20Group-29b6f6?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Group" /></a>
-    <a href="https://t.me/revwhiteshadow"><img src="https://img.shields.io/badge/Telegram-Direct%20Contact-8b5cf6?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Direct" /></a>
-    <a href="https://www.pling.com/u/revwhiteshadow"><img src="https://img.shields.io/badge/Pling-revWhiteShadow-00b4d8?style=for-the-badge&logo=pling&logoColor=white" alt="Pling Store" /></a>
-    <a href="https://www.opendesktop.org/u/revwhiteshadow"><img src="https://img.shields.io/badge/OpenDesktop-revWhiteShadow-008080?style=for-the-badge&logo=opendesktop&logoColor=white" alt="OpenDesktop" /></a>
-    <a href="http://ko-fi.com/revWS"><img src="https://img.shields.io/badge/Support-Ko--fi-ff5e5b?style=for-the-badge&logo=kofi&logoColor=white" alt="Support on Ko-fi" /></a>
-  </p>
+<p align="center">
+  <a href="https://github.com/revws">
+    <img src="https://profileviews.blueorbitdevs.workers.dev/?username=revws&amp;color=e11d48&amp;style=for-the-badge&amp;label=PROFILE+VIEWS" alt="Profile Views" />
+  </a>
+
+  <a href="https://revwhiteshadow.gitlab.io">
+    <img src="https://img.shields.io/badge/Portfolio-revwhiteshadow.gitlab.io-e24329?style=for-the-badge&amp;logo=gitlab&amp;logoColor=white" alt="Portfolio Website" />
+  </a>
+
+  <a href="https://gitlab.com/revWhiteShadow">
+    <img src="https://img.shields.io/badge/GitLab-revWhiteShadow-fc6d26?style=for-the-badge&amp;logo=gitlab&amp;logoColor=white" alt="GitLab Profile" />
+  </a>
+
+  <a href="https://t.me/godTspeed">
+    <img src="https://img.shields.io/badge/Telegram-Official%20Channel-0088cc?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="Telegram Channel" />
+  </a>
+
+  <a href="https://t.me/godspeedmode">
+    <img src="https://img.shields.io/badge/Telegram-Discussion%20Group-29b6f6?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="Telegram Group" />
+  </a>
+
+  <a href="https://t.me/revwhiteshadow">
+    <img src="https://img.shields.io/badge/Telegram-Direct%20Contact-8b5cf6?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="Telegram Direct" />
+  </a>
+
+  <a href="https://www.pling.com/u/revwhiteshadow">
+    <img src="https://img.shields.io/badge/Pling-revWhiteShadow-00b4d8?style=for-the-badge&amp;logo=pling&amp;logoColor=white" alt="Pling Store" />
+  </a>
+
+  <a href="https://www.opendesktop.org/u/revwhiteshadow">
+    <img src="https://img.shields.io/badge/OpenDesktop-revWhiteShadow-008080?style=for-the-badge&amp;logo=opendesktop&amp;logoColor=white" alt="OpenDesktop" />
+  </a>
+
+  <a href="https://ko-fi.com/revWS">
+    <img src="https://img.shields.io/badge/Support-Ko--fi-ff5e5b?style=for-the-badge&amp;logo=kofi&amp;logoColor=white" alt="Support on Ko-fi" />
+  </a>
+</p>
+
 
   <p align="center">
     <img src="https://img.shields.io/badge/Origin-Bangladesh%20%F0%9F%87%A7%F0%9F%87%A9-006a4e?style=flat-square" alt="Bangladesh" />
