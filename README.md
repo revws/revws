@@ -89,6 +89,7 @@ And when I step away from the compiler and debuggers? I'm a hardcore gamer. Whet
 | :--- | :--- | :---: | :---: | :--- |
 | **PUBG: BATTLEGROUNDS** | Tactical Battle Royale / UE4 | PC | **10 / 10** | 👑 Masterpiece Battle Royale, Tactical Gunplay & Chicken Dinners |
 | **THE FINALS** | Destruction FPS / UE5 | PC | **10 / 10** | 👑 Main Competitive Shooter & Pure Chaos |
+| **The King of Fighters 2002 (GGPO / Fightcade)** | 2D Fighting / GGPO Netplay | Arcade / PC | **10 / 10** | 👑 Peak Competitive 2D Fighting, MAX Mode & BC Cancels |
 | **The King of Fighters 10th Anniversary** | 2D Fighting / Neo-Geo Arcade | Arcade / PC | **10 / 10** | 👑 Timeless Fighting Game Masterpiece |
 | **Sekiro: Shadows Die Twice** | Action / Soulslike | PC | **9.8 / 10** | ⚔️ Flawless Deflection & Posture Combat |
 | **Batman: Arkham Knight** | Action-Adventure / UE3 | PC | **9.7 / 10** | 🦇 The Definitive Batman Simulator |
@@ -144,6 +145,7 @@ And when I step away from the compiler and debuggers? I'm a hardcore gamer. Whet
 
 | Game | Platform / System | Personal Rating | Status & Notes |
 | :--- | :---: | :---: | :--- |
+| **The King of Fighters 2002 (GGPO / Fightcade)** | Arcade / PC (GGPO) | **10 / 10** | 👑 Peak competitive 2D fighting, BC cancels & rollback netplay |
 | **The King of Fighters 10th Anniversary** | Arcade (Neo-Geo) | **10 / 10** | Timeless all-time favorite arcade fighter |
 | **Fightcade 2** | PC (GGPO Netplay) | **9.6 / 10** | The home of competitive arcade rollback netplay |
 | **MAME32 Plus!** | PC (Arcade Emulation) | **9.5 / 10** | Golden age arcade emulation vault & retro testing |
