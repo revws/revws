@@ -87,6 +87,7 @@ And when I step away from the compiler and debuggers? I'm a hardcore gamer. Whet
 
 | Game | Genre / Engine | Platform | Personal Rating | Status & Highlights |
 | :--- | :--- | :---: | :---: | :--- |
+| **PUBG: BATTLEGROUNDS** | Tactical Battle Royale / UE4 | PC | **10 / 10** | 👑 Masterpiece Battle Royale, Tactical Gunplay & Chicken Dinners |
 | **THE FINALS** | Destruction FPS / UE5 | PC | **10 / 10** | 👑 Main Competitive Shooter & Pure Chaos |
 | **The King of Fighters 10th Anniversary** | 2D Fighting / Neo-Geo Arcade | Arcade / PC | **10 / 10** | 👑 Timeless Fighting Game Masterpiece |
 | **Sekiro: Shadows Die Twice** | Action / Soulslike | PC | **9.8 / 10** | ⚔️ Flawless Deflection & Posture Combat |
@@ -177,6 +178,7 @@ And when I step away from the compiler and debuggers? I'm a hardcore gamer. Whet
 
 | Game | Platform / Engine | Personal Rating | Status & Notes |
 | :--- | :---: | :---: | :--- |
+| **PUBG: BATTLEGROUNDS** | PC (UE4) | **10 / 10** | The tactical pinnacle of battle royales; tension, recoil & dinners |
 | **THE FINALS** | PC (UE5) | **10 / 10** | Dynamic physics, destructible chaos, 10/10 perfection |
 | **Helldivers 2** | PC | **9.2 / 10** | Galactic democracy, explosive stratagems & fun co-op |
 | **Palworld** | PC (UE5) | **9.0 / 10** | Addictive creature capture, base crafting & survival |
@@ -187,7 +189,6 @@ And when I step away from the compiler and debuggers? I'm a hardcore gamer. Whet
 | **PEAK** | PC | **8.4 / 10** | Fast-paced multiplayer movement & challenge runs |
 | **Apex Legends** | PC | **8.5 / 10** | Fluid slide-hopping movement & high TTK gunplay |
 | **Marvel Rivals** | PC | **8.5 / 10** | Fast hero synergies & destructible team combat |
-| **PUBG: BATTLEGROUNDS** | PC (UE4) | **8.0 / 10** | The tactical foundation of modern battle royales |
 | **Valorant** | PC (UE4) | **8.0 / 10** | Tactically sound crosshair placement & site executes |
 | **Overwatch 2** | PC | **7.5 / 10** | Fast hero shooter compositions & payload pushes |
 
@@ -318,7 +319,8 @@ Documenting engineering discoveries, system architecture benchmarks, and low-lev
 ### 📊 Live Activity & Telemetry
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=revws&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e11d48&icon_color=06b6d4&text_color=c9d1d9" height="175" alt="revws GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=revws&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e11d48&icon_color=06b6d4&text_color=c9d1d9" height="175" alt="revws GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=revws&theme=tokyonight&hide_border=true&background=0d1117&ring=e11d48&fire=e11d48&currStreakLabel=06b6d4" height="175" alt="revws GitHub Streak" />
 </div>
 
 ---
